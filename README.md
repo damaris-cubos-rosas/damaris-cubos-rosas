@@ -1,4 +1,4 @@
-# Hi, I'm [Tu Nombre] 👋
+# Hi, I'm Dámaris Cubos Rosas 👋
 ### 🌐 Available in English | También disponible en español
 
 🎓 Business Data Science student (7/10 terms) · 📍 Mexico City, Mexico
