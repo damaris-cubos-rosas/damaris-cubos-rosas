@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm [Tu Nombre] 👋
+### 🌐 Available in English | También disponible en español
 
-<!--
-**damaris-cubos-rosas/damaris-cubos-rosas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Business Data Science student (7/10 terms) · 📍 Mexico City, Mexico
+🎯 Aspiring Data Analyst | Open to Jr. positions & freelance projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Technologies
+
+**Analysis & Visualization**
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Currently Learning**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+---
+
+## 📁 Featured Projects
+
+> 🚧 Portfolio under active construction — weekly updates
+
+| Project | Tools | Description |
+|---|---|---|
+| Coming soon | Excel · Power BI | Sales performance analysis |
+
+---
+
+## 🌱 About Me
+
+I'm a Business Data Science student passionate about turning raw data
+into clear, actionable insights. I'm currently building my portfolio
+through real-world projects across different industries, combining
+tools like Excel, Power BI, SQL, and Tableau.
+
+Always learning. Always iterating.
+
+---
+
+## 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+
+---
+
+*"Turning data into decisions."*
