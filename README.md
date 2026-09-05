@@ -1,7 +1,7 @@
 # Hi, I'm Dámaris Cubos Rosas 👋
 ### 🌐 Available in English | También disponible en español
 
-🎓 Business Data Science student (7/10 terms) · 📍 Mexico City, Mexico
+🎓 Business Data Science student (8/10 terms) · 📍 Mexico City, Mexico
 🎯 Aspiring Data Analyst | Open to Jr. positions & freelance projects
 
 ---
@@ -44,8 +44,7 @@ Always learning. Always iterating.
 
 ## 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:damaris.cubos.rosas@gmail.com)
 
 ---
 
